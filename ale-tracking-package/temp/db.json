@@ -1,0 +1,88 @@
+{
+  "pedidos": [
+    {
+      "status": "PRONTO",
+      "exibirPedido": false,
+      "nome": "Rodrigo",
+      "id": "1882445",
+      "descricao": "Jogo Dark Souls\nLivro Trilogia Senhor dos Aneis\nFone de Ouvido"
+    },
+    {
+      "status": "PAGO",
+      "exibirPedido": true,
+      "id": "123",
+      "nome": "Eduardo",
+      "descricao": "Passagem pro Canada\nCerveja\nMentos"
+    },
+    {
+      "status": "PREPARANDO",
+      "exibirPedido": true,
+      "id": "001",
+      "nome": "Milena",
+      "descricao": "Kit Maquiagem Avon "
+    },
+    {
+      "status": "EXCLUIDO",
+      "exibirPedido": true,
+      "id": "000",
+      "nome": "Indeciso",
+      "descricao": "Livro como parar de ser compulsivo"
+    },
+    {
+      "status": "NOVO",
+      "exibirPedido": true,
+      "id": "984",
+      "nome": "Aline",
+      "descricao": "Shampoo + Condicionador Aussie"
+    },
+    {
+      "status": "CONFERENCIA",
+      "exibirPedido": true,
+      "id": "498",
+      "nome": "Marcelo",
+      "descricao": "Celular Samsung Galaxy Perfume Calvin Klein"
+    },
+    {
+      "status": "NOVO",
+      "exibirPedido": true,
+      "id": "567",
+      "nome": "Leticia",
+      "descricao": "Dicionario Alemão Cd Rammstein"
+    },
+    {
+      "status": "PAGO",
+      "exibirPedido": true,
+      "id": "890",
+      "nome": "Starwarsfan",
+      "descricao": "Boneco Darth Vader Ediçao Especial"
+    },
+    {
+      "status": "PRONTO",
+      "exibirPedido": true,
+      "id": "666",
+      "nome": "LordMetalHorn",
+      "descricao": "Camisa Preta Calça Preta Cerveja"
+    },
+    {
+      "status": "EXCLUIDO",
+      "exibirPedido": false,
+      "id": "00000000000000",
+      "nome": "Erro",
+      "descricao": "Essa aplicação deu erro. Por favor, reinicie o computador. Caso o problema persista, faça uma reza bem forte pra tirar o espirito maligno."
+    },
+    {
+      "status": "PREPARANDO",
+      "exibirPedido": true,
+      "id": "489",
+      "nome": "Juquinha",
+      "descricao": "Jogo Fortnite "
+    },
+    {
+      "status": "CONFERENCIA",
+      "exibirPedido": true,
+      "id": "10101001",
+      "nome": "DevMasterPicadasGalaxias",
+      "descricao": "Curso Avançado React Redux Curso Avançado Spring Boot Curso Avançado Python Livro Porque o Linux é melhor que o Windows"
+    }
+  ]
+}

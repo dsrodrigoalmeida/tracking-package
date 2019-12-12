@@ -1,0 +1,33 @@
+
+.NOVO{
+    background-color: red;
+    
+}
+
+.PREPARANDO{
+    background-color: yellow;
+    
+}
+
+.CONFERENCIA{
+    background-color:green;
+}
+
+.PRONTO{
+    background-color:blue;
+}
+
+.descricao, .infoPedido
+{
+    font-size: 14px;
+    padding: 15px 5px;
+    margin: 0;
+   text-align: left;
+   color: black;
+
+}
+
+.infoPedido {
+    resize: none;
+    overflow:hidden;
+}
